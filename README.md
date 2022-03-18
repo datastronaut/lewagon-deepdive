@@ -1,6 +1,6 @@
 # Data analysis
 - Document here the project: lewagon-deepdive
-- Description: Project Description
+- Description:
 - Data Source:
 - Type of analysis:
 
