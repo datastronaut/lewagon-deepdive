@@ -57,7 +57,7 @@ Step 4: Convert all audio signals to mel spectrograms (i.e. numpy arrays)
 
 ### Model training
 
-CNN architecture and training history can be found in /working_environment/03_model_training/notebooks and /models
+CNN architecture and training history can be found in /03_model_training/notebooks and /models
 
 ## Repositories
 - **front-end repo:** [ChristianDesCodes/lewagon-deepdive-front](https://github.com/ChristianDesCodes/lewagon-deepdive-front)
