@@ -29,7 +29,7 @@ The generated dataset amounted to approximately 900 audio samples.
 ### Preprocessing Workflow
 Beforehand, we observed 2 main ‘issues’:
 1. The species in our selected dataset were extremely unbalanced
-2. The audio samples were of different durations and would thus result to spectrograms of different lengths, which would be impossible for our model to process
+2. The audio samples were of different durations and would thus result in spectrograms of different lengths, which would be impossible for our model to process
 
 To address both problems, we agreed on the following preprocessing workflow:
 
@@ -61,4 +61,5 @@ CNN architecture and training history can be found in /03_model_training/noteboo
 
 ## Repositories
 - **front-end repo:** [ChristianDesCodes/lewagon-deepdive-front](https://github.com/ChristianDesCodes/lewagon-deepdive-front)
+- **website:** [DeepDiveWebsite](https://share.streamlit.io/christiandescodes/lewagon-deepdive-front/app.py)
 - **back-end repo:** [ChristianDesCodes/lewagon-deepdive](https://github.com/ChristianDesCodes/lewagon-deepdive)
