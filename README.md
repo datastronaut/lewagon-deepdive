@@ -9,8 +9,8 @@ It has been developed in two weeks by three beginners in Python and Deep Learnin
 
 ## Objective
 Goal of the project: build a classification deep learning model.
-**Input:** sound recording of an unknown marine mammal song (.wav format).
-**Output:** ranking of corresponding marine mammal species from most to least probable.
+- **Input:** sound recording of an unknown marine mammal song (.wav format).
+- **Output:** ranking of corresponding marine mammal species from most to least probable.
 
 ## Source Data
 All the data used to train our model has been downloaded from the [Watkins Marine Mammal Sound Database](https://cis.whoi.edu/science/B/whalesounds).
@@ -23,7 +23,8 @@ We intended to work on the “all cuts” section (around 16000 recordings) but 
 From the raw dataset, we selected:
 1. The number of families and species to observe (we chose to work with all 8 families and 31 species)
 2. The minimum duration (we chose none i.e. we selected all samples)
-3. The ‘quality’ of audio recording (we chose to work only with cleaned samples (i.e. no external noises (boat, rain, icebergs…etc.) nor multi-species recordings (i.e. 2 or more species heard on the recording
+3. The ‘quality’ of audio recording (we chose to work only with cleaned samples (i.e. no external noises (boat, rain, icebergs…etc.) nor multi-species recordings (i.e. 2 or more species heard on the recording)
+
 The generated dataset amounted to approximately 900 audio samples.
 
 ### Preprocessing Workflow
