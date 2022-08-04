@@ -2,7 +2,7 @@
 
 ## Description
 Final project of [Le Wagon](https://www.lewagon.com/) Data Science Bootcamp - batch :hash::eight::zero::two:
-It has been developed in two weeks by three beginners in Python and Deep Learning
+It has been developed in two weeks, between February 28th and March 11th 2022, by three beginners in Python and Deep Learning
 - [Victoria Metzger](https://github.com/VictoriaMetzger)
 - [Timothée Filhol](https://github.com/timfilhol96)
 - [Christian Lajouanie](https://github.com/ClearButton)
