@@ -62,5 +62,5 @@ CNN architecture and training history can be found in /03_model_training/noteboo
 
 ## Repositories
 - **front-end repo:** [ClearButton/lewagon-deepdive-front](https://github.com/ClearButton/lewagon-deepdive-front)
-- **website:** [DeepDiveWebsite](https://share.streamlit.io/ClearButton/lewagon-deepdive-front/app.py)
+- **website:** [DeepDiveWebsite](https://clearbutton-lewagon-deepdive-front-app-o07cei.streamlitapp.com/)
 - **back-end repo:** [ClearButton/lewagon-deepdive](https://github.com/ClearButton/lewagon-deepdive)
