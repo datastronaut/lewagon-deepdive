@@ -5,7 +5,7 @@ Final project of [Le Wagon](https://www.lewagon.com/) Data Science Bootcamp - ba
 It has been developed in two weeks, between February 28th and March 11th 2022, by three beginners in Python and Deep Learning
 - [Victoria Metzger](https://github.com/VictoriaMetzger)
 - [Timothée Filhol](https://github.com/timfilhol96)
-- [Christian Lajouanie](https://github.com/ClearButton)
+- [Christian Lajouanie](https://github.com/datastronaut)
 
 ## Objective
 Goal of the project: build a classification deep learning model.
@@ -61,6 +61,6 @@ Step 4: Convert all audio signals to mel spectrograms (i.e. numpy arrays)
 CNN architecture and training history can be found in /03_model_training/notebooks and /models
 
 ## Repositories
-- **front-end repo:** [ClearButton/lewagon-deepdive-front](https://github.com/ClearButton/lewagon-deepdive-front)
+- **front-end repo:** [datastronaut/lewagon-deepdive-front](https://github.com/datastronaut/lewagon-deepdive-front)
 - **website:** [DeepDiveWebsite](https://clearbutton-lewagon-deepdive-front-app-o07cei.streamlitapp.com/)
-- **back-end repo:** [ClearButton/lewagon-deepdive](https://github.com/ClearButton/lewagon-deepdive)
+- **back-end repo:** [datastronaut/lewagon-deepdive](https://github.com/datastronaut/lewagon-deepdive)
